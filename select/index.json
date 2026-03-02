@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "林檎もぎれビーム!",
+  "base_artist": "大槻ケンヂと絶望少女達",
+  "createdAt": "2026-03-02T13:24:27.169095Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "林檎もぎれビーム!",
+      "artist": "特撮",
+      "has_synced": true,
+      "path": "select/01_林檎もぎれビーム!_特撮.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "林檎もぎれビーム!",
+      "artist": "Tokusatsu",
+      "has_synced": false,
+      "path": "select/02_林檎もぎれビーム!_Tokusatsu.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "林檎もぎれビーム!",
+      "artist": "大槻ケンヂと絶望少女達",
+      "has_synced": true,
+      "path": "select/03_林檎もぎれビーム!_大槻ケンヂと絶望少女達.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "林檎もぎれビーム！(テレビサイズ)",
+      "artist": "大槻ケンヂと絶望少女達(風浦可符香、木津千里、木村カエレ、関内・マリア・太郎、日塔奈美)",
+      "has_synced": false,
+      "path": "select/04_林檎もぎれビーム!(テレビサイズ)_大槻ケンヂと絶望少女達(風浦可符香、木津千里、木村カエレ、関内・マリア・太郎、日塔奈美).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "林檎もぎれビーム！(テレビサイズ)",
+      "artist": "大槻ケンヂ",
+      "has_synced": false,
+      "path": "select/05_林檎もぎれビーム!(テレビサイズ)_大槻ケンヂ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "林檎もぎれビーム!(テレビサイズ)",
+      "artist": "大槻ケンヂと絶望少女達",
+      "has_synced": false,
+      "path": "select/06_林檎もぎれビーム!(テレビサイズ)_大槻ケンヂと絶望少女達.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "林檎もぎれビーム!",
+      "artist": "大槻 ケンヂと絶望少女達",
+      "has_synced": false,
+      "path": "select/pl_01_林檎もぎれビーム!_大槻_ケンヂと絶望少女達.txt"
+    }
+  ]
+}
